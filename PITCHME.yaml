@@ -1,3 +1,7 @@
 theme : beige
 
 @size[size-value](your-content)
+
+### @color[orange](ACME Corp Clearance Sale)
+
+#### Dynamite Deals - @color[#DC143C](Short Fuses) Included!
