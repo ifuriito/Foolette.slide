@@ -37,3 +37,5 @@
 FIN
 
 おわり
+
+theme : sky
