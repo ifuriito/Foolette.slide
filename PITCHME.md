@@ -38,4 +38,4 @@ FIN
 
 おわり
 
-theme : sky
+
