@@ -5,7 +5,7 @@
 
 ---
 
-よろしくお願いします！
+@size[size-value](your-content)よろしくお願いします！
 
 ---
 
