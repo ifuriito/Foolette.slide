@@ -1,5 +1,4 @@
-# giro-spell-generater slide
-
+# Cookpad Food Tech Hackthon 
 #ばるびんじょぼんごす
 
 
