@@ -1,6 +1,6 @@
 # Cookpad Food Tech Hackthon 
 
-#ばるびんじょぼんごす
+# @size[0.4em](ばるびんじょぼんごす)
 
 
 ---
