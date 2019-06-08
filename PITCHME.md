@@ -1,8 +1,7 @@
-# ばるびんじょぼんごす　スライド
+# giro-spell-generater slide
 
-#よろしくお願いします！
+#ばるびんじょぼんごす
 
-#test.slide
 
 ---
 
