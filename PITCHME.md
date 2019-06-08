@@ -1,4 +1,4 @@
-# giro-spell-generater slide
+# giro-spell-generater 
 
 #ばるびんじょぼんごす
 
